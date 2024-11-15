@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Specification-Title: besu-core
+Specification-Version: 22.7.7
+Implementation-Title: besu-core
+Implementation-Version: 22.7.7
+

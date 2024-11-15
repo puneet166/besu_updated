@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Specification-Title: plugin-api
+Specification-Version: 22.7.7
+Implementation-Title: plugin-api
+Implementation-Version: 22.7.7
+

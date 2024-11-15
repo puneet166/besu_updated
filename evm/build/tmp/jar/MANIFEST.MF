@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Specification-Title: besu-evm
+Specification-Version: 22.7.7
+Implementation-Title: besu-evm
+Implementation-Version: 22.7.7
+
